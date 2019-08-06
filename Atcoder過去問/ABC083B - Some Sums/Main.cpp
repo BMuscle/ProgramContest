@@ -19,8 +19,22 @@ template<class T> inline bool chmin(T& a, T b) {
 
 
 int main(void) {
+	int N, A, B, sum = 0, ans = 0,tmp;
 
-
+	scanf("%d %d %d", &N, &A, &B);
+	
+	for (int i = 1; i <= N; i++) {
+		sum = 0;
+		tmp = i;
+		while (tmp != 0) {
+			sum += tmp % 10;
+			tmp /= 10;
+		}
+		if (sum >= A && sum <= B) {
+			ans += i;
+		}
+	}
+	printf("%d", ans);
 
 
 	return 0;
