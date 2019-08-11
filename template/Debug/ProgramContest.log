@@ -1,8 +1,47 @@
 ﻿  Main.cpp
-C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(25,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' の宣言を確認してください
-C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(26,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' の宣言を確認してください
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(39,18): warning C4244:  '引数': 'll' から 'const unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(40,24): warning C4244:  '引数': 'll' から 'const unsigned int' への変換です。データが失われる可能性があります。
 C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(28,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' の宣言を確認してください
-  ProgramContest.vcxproj -> C:\Users\rk\Documents\GitHub\ProgramContest\template\Debug\ProgramContest.exe
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(31,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' の宣言を確認してください
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\xmemory0(819,1): error C3074:  配列は、かっこで囲まれた初期化子では初期化できません
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(639): message :  コンパイル対象の関数 テンプレート インスタンス化 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,const ll(&)[2]>(_Alloc &,_Objty (*const ),const ll (&)[2])' のリファレンスを確認してください
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(639): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(639): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(639): message :             _Alloc=std::allocator<__int64 [2]>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(639): message :             _Ty=__int64 [2],
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(639): message :             _Objty=__int64 [2]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(639): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(644): message :  コンパイル対象の関数 テンプレート インスタンス化 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,const ll(&)[2]>(_Alloc &,_Objty (*const ),const ll (&)[2])' のリファレンスを確認してください
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(644): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(644): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(644): message :             _Alloc=std::allocator<__int64 [2]>,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(644): message :             _Ty=__int64 [2],
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(644): message :             _Objty=__int64 [2]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(644): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(657): message :  コンパイル対象の関数 テンプレート インスタンス化 'void std::vector<ll [2],std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<const ll(&)[2]>(const ll (&)[2])' のリファレンスを確認してください
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(657): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(657): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(657): message :             _Ty=ll [2]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(657): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(674): message :  コンパイル対象の関数 テンプレート インスタンス化 'void std::vector<ll [2],std::allocator<_Ty>>::emplace_back<const ll(&)[2]>(const ll (&)[2])' のリファレンスを確認してください
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(674): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(674): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(674): message :             _Ty=ll [2]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(674): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(673): message :  クラス テンプレート メンバー関数 'void std::vector<ll [2],std::allocator<_Ty>>::push_back(const _Ty (&))' のコンパイル中
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(673): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(673): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(673): message :             _Ty=ll [2]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\include\vector(673): message :         ]
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(33): message :  コンパイル対象の関数 テンプレート インスタンス化 'void std::vector<ll [2],std::allocator<_Ty>>::push_back(const _Ty (&))' のリファレンスを確認してください
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(33): message :         with
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(33): message :         [
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(33): message :             _Ty=ll [2]
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(33): message :         ]
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(26): message :  コンパイル対象の クラス テンプレート インスタンス化 'std::vector<ll [2],std::allocator<_Ty>>' のリファレンスを確認してください
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(26): message :         with
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(26): message :         [
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(26): message :             _Ty=ll [2]
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(26): message :         ]

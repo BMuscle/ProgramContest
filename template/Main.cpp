@@ -17,45 +17,37 @@ template<class T> inline bool chmin(T& a, T b) {
 	return false;
 }
 
-ll N, i, j, k, tmp, h, w, t;
+ll N, M, i, j, k, h, w, tmp, A, B, ma;
+
+ll dp[10000000];
+
 
 int main(void) {
-	vector<ll> v;
-	bool f = true,ans = true;
-	scanf("%lld", &N);
-	scanf("%lld", &tmp);
-	for (ll i = 1; i < N; i++) {
-		scanf("%lld", &h);
-		if (h < tmp) {
-			if (tmp - h >= 2) {
-				ans = false;
-				break;
-			}
-			else if (f == false) {
-				ans = false;
-				break;
+	vector<ll[2]> ab;
+	ma = 0;
+	scanf("%lld %lld", &N, &M);
+
+	for (i = 0; i < N; i++) {
+		scanf("%lld %lld", &A, &B);
+		ll tmp[2] = { A,B };
+		ab.push_back(tmp);
+	}
+	sort(ab.begin(), ab.end());
+	ll left = 0;
+	for (i = 1; i <= M; i++) {
+		for (j = left; j < N; j++) {
+			if (i - ab.at(j)[0]  >= 0) {
+				ma = max(ma, ab.at(j)[1] + dp[i - 1]);
 			}
 			else {
-				f = false;
+				dp[i] = ma;
+				left = j;
+				break;
 			}
 		}
-		else {
-			f = true;
-		}
-		tmp = h;
-	}
-	
-
-	
-	
-	if (ans) {
-		printf("Yes");
-	}
-	else {
-		printf("No");
 	}
 
-
+	printf("%lld", dp[M]);
 
 	return 0;
 }
