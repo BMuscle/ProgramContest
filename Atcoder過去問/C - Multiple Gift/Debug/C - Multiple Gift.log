@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\C - Multiple Gift\Main.cpp(29,9): warning C4477:  'printf' : 書式文字列 '%d' には、型 'int' の引数が必要ですが、可変個引数 1 は型 'll' です
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\C - Multiple Gift\Main.cpp(29,9): message :  書式文字列に '%lld' を使用することをお勧めします
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\C - Multiple Gift\Main.cpp(29,9): message :  書式文字列に '%I64d' を使用することをお勧めします
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\C - Multiple Gift\Main.cpp(23,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' の宣言を確認してください
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\C - Multiple Gift\Main.cpp(22,17): warning C4101:  'k': ローカル変数は 1 度も使われていません。
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\C - Multiple Gift\Main.cpp(22,14): warning C4101:  'j': ローカル変数は 1 度も使われていません。
+  ProConLib.cpp
+  コードを生成中...
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\C - Multiple Gift\Main.cpp(22,11): warning C4101:  'i': ローカル変数は 1 度も使われていません。
+  C - Multiple Gift.vcxproj -> C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\C - Multiple Gift\Debug\C - Multiple Gift.exe
