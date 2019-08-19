@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\rk\source\repos\C - Dubious Document 2\Main.cpp(32,17): warning C4018:  '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\rk\source\repos\C - Dubious Document 2\Main.cpp(47,17): warning C4018:  '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\rk\source\repos\C - Dubious Document 2\Main.cpp(23,15): warning C4101:  'tmp': ローカル変数は 1 度も使われていません。
+C:\Users\rk\source\repos\C - Dubious Document 2\Main.cpp(23,12): warning C4101:  'k': ローカル変数は 1 度も使われていません。
+  C - Dubious Document 2.vcxproj -> C:\Users\rk\source\repos\C - Dubious Document 2\Debug\C - Dubious Document 2.exe

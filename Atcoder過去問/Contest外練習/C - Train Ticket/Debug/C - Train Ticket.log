@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\C - Train Ticket\Main.cpp(24,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' の宣言を確認してください
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\C - Train Ticket\Main.cpp(22,23): warning C4101:  'k': ローカル変数は 1 度も使われていません。
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\C - Train Ticket\Main.cpp(22,20): warning C4101:  'j': ローカル変数は 1 度も使われていません。
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\C - Train Ticket\Main.cpp(22,17): warning C4101:  'i': ローカル変数は 1 度も使われていません。
+  C - Train Ticket.vcxproj -> C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\C - Train Ticket\Debug\C - Train Ticket.exe
