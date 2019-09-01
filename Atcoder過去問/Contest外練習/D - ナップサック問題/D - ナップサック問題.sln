@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "D - ナップサック問題", "D - ナップサック問題\D - ナップサック問題.vcxproj", "{4CB05E60-85E6-41B3-9B8C-21FEA78DE0AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB05E60-85E6-41B3-9B8C-21FEA78DE0AF}.Debug|x64.ActiveCfg = Debug|x64
+		{4CB05E60-85E6-41B3-9B8C-21FEA78DE0AF}.Debug|x64.Build.0 = Debug|x64
+		{4CB05E60-85E6-41B3-9B8C-21FEA78DE0AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{4CB05E60-85E6-41B3-9B8C-21FEA78DE0AF}.Debug|x86.Build.0 = Debug|Win32
+		{4CB05E60-85E6-41B3-9B8C-21FEA78DE0AF}.Release|x64.ActiveCfg = Release|x64
+		{4CB05E60-85E6-41B3-9B8C-21FEA78DE0AF}.Release|x64.Build.0 = Release|x64
+		{4CB05E60-85E6-41B3-9B8C-21FEA78DE0AF}.Release|x86.ActiveCfg = Release|Win32
+		{4CB05E60-85E6-41B3-9B8C-21FEA78DE0AF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51FFFA6A-33FF-404F-81AF-1484B0BCD54D}
+	EndGlobalSection
+EndGlobal
