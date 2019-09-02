@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\Contest中AC記録\ABC139\ABC139\Main.cpp(29,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  'scanf' の宣言を確認してください
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\Contest中AC記録\ABC139\ABC139\Main.cpp(33,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  'scanf' の宣言を確認してください
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\Contest中AC記録\ABC139\ABC139\Main.cpp(25,12): warning C4101:  'k': ローカル変数は 1 度も使われていません。
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\Contest中AC記録\ABC139\ABC139\Main.cpp(25,9): warning C4101:  'j': ローカル変数は 1 度も使われていません。
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\Contest中AC記録\ABC139\ABC139\Main.cpp(25,6): warning C4101:  'i': ローカル変数は 1 度も使われていません。
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\Contest中AC記録\ABC139\ABC139\Main.cpp(25,41): warning C4101:  'at': ローカル変数は 1 度も使われていません。
+  ABC139.vcxproj -> C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\Contest中AC記録\ABC139\Debug\ABC139.exe
