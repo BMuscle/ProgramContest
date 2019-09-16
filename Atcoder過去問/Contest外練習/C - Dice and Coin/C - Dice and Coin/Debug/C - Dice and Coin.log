@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\Contest外練習\C - Dice and Coin\C - Dice and Coin\Main.cpp(45,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  'scanf' の宣言を確認してください
+  C - Dice and Coin.vcxproj -> C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\Contest外練習\C - Dice and Coin\Debug\C - Dice and Coin.exe
