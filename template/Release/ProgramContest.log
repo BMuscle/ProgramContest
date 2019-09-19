@@ -1,10 +1,31 @@
 ﻿  Main.cpp
-C:\Users\rk\source\repos\ProgramContest\Main.cpp(7,10): warning C4244:  '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\rk\source\repos\ProgramContest\Main.cpp(8,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' の宣言を確認してください
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(65,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  'scanf' の宣言を確認してください
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(44,14): warning C4244:  '引数': 'T' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(44,14): warning C4244:         with
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(44,14): warning C4244:         [
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(44,14): warning C4244:             T=LL
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(44,14): warning C4244:         ]
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(67): message :  コンパイル対象の関数 テンプレート インスタンス化 'bool Eratosthenes<LL>(std::vector<bool,std::allocator<_Ty>> &,T)' のリファレンスを確認してください
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(67): message :         with
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(67): message :         [
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(67): message :             _Ty=bool,
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(67): message :             T=LL
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(67): message :         ]
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(53,12): warning C4244:  '引数': 'T' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(53,12): warning C4244:         with
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(53,12): warning C4244:         [
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(53,12): warning C4244:             T=LL
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(53,12): warning C4244:         ]
+  ProConLib.cpp
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(55,12): warning C4244:  '引数': 'T' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(55,12): warning C4244:         with
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(55,12): warning C4244:         [
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(55,12): warning C4244:             T=LL
+C:\Users\rk\Documents\GitHub\ProgramContest\template\Main.cpp(55,12): warning C4244:         ]
   コード生成しています。
-  5 of 7 functions (71.4%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
+  146 of 146 functions (100.0%) were compiled.
+    142 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   コード生成が終了しました。
-  ProgramContest.vcxproj -> C:\Users\rk\source\repos\ProgramContest\Release\ProgramContest.exe
+  ProgramContest.vcxproj -> C:\Users\rk\Documents\GitHub\ProgramContest\template\Release\ProgramContest.exe
