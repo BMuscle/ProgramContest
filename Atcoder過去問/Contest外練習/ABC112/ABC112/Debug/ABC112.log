@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\Contest外練習\ABC112\ABC112\Main.cpp(50,2): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\Contest外練習\ABC112\ABC112\Main.cpp(70,2): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\Contest外練習\ABC112\ABC112\Main.cpp(44,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' の宣言を確認してください
+C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\Contest外練習\ABC112\ABC112\Main.cpp(59,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' の宣言を確認してください
+  ABC112.vcxproj -> C:\Users\rk\Documents\GitHub\ProgramContest\Atcoder過去問\Contest外練習\ABC112\Debug\ABC112.exe
